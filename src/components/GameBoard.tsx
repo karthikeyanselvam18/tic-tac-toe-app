@@ -55,7 +55,7 @@ export function GameBoard() {
     if (!gameOver) {
       checkWinner();
     }
-  }, [squares]);
+  }, [squares, gameOver]);
 
   function handleSquareClick(index: number) {
     if (squares[index] === "" && !gameOver) {
