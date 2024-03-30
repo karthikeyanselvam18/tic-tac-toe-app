@@ -4,7 +4,7 @@ export function Footer() {
       <p>
         Original project by&nbsp;
         <a href="https://karthikeyanselvam18.github.io/portfolio">
-          Karthikeyan
+          Karthikeyan Selvam
         </a>
       </p>
     </footer>
